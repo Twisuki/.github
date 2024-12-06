@@ -1,37 +1,86 @@
 
 <div align="center">
-  <img src="https://cdn.liteyuki.icu/static/img/liteyuki_icon_640.png" width="180" height="180" alt="LiteyukiLogo">
-  <br>
-  <img src="https://cdn.liteyuki.icu/static/svg/lylogo-full.svg" height="180" alt="LiteyukiLogoKawaii">
-  <h1><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=445d69&random=false&width=435&lines=Hi%2C+This+is+LiteyukiStudio" height="75px"/></h1>
+  <img src="liteyuki_icon_640.png" width="180" height="180" alt="LiteyukiLogo" />
+  <img src="lylogo-full.svg" height="180" alt="LiteyukiLogoKawaii" />
 </div>
+
+<div align="center">
+  <img src="typing.svg" height="75px" alt="Hi, This is LiteyukiStudio" align="center" />
+</div>
+
 
 - 📚 | 雪萤工坊轻雪工作室 Liteyuki Studio of Snowyfirefly Workshop
 - 🎓 | 承接雪萤工坊部分业务，目前是并行状态
 - 🌐 | 一群有相同爱好者的人
-- 🛠️ | 前后端开发，云原生，微服务开发，机器学习，游戏开发 与 [TriM Organization](https://github.com/TriM-Organization)深度合作
+- 🛠️ | 前后端开发，云原生，微服务开发，机器学习，游戏开发 与 [TriM Organization](https://github.com/TriM-Organization) 深度合作
 
 
 <div align="center">
-  <h1>Members 👤 成员</h1>
-  <p align="center">
-    <img src="https://github.com/snowykami.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
-    <img src="https://github.com/liteyuki-flow.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
-    <img src="https://github.com/Asankilp.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
-    <img src="https://github.com/EillesWan.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
-    <img src="https://github.com/ElapsingDreams.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
-    <img src="https://github.com/HornCopper.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
-    <img src="https://github.com/LuoChenXil.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
-    <img src="https://github.com/Miracle200606.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
-    <img src="https://github.com/MoeSnowyFox.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
-    <img src="https://github.com/Nanaloveyuki.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
-    <img src="https://github.com/yuhan2680.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
-    <img src="https://github.com/synodriver.png" weight="80px" height="80px" alt="icon" style="border-radius: 50%;">
-  </p>
 
-  <h1>Contacts 📧 联络</h1>
-  <a href="https://liteyuki.icu">Our Homepage/探索我们的主页 - liteyuki.icu</a><br><br>
-  <a href="contact@liteyuki.icu">Email/电邮 - contact@liteyuki.icu</a><br><br>
-  <a href="https://git.liteyuki.icu">Git Workspace/工作区 - git.liteyuki.icu</a><br><br>
-  <a href="https://lab.liteyuki.icu">Liteyuki Lab/社区 - lab.liteyuki.icu</a><br><br>
+  # Members 👤 成员
+
 </div>
+
+<div align="center">
+  <a href="https://github.com/snowykami">
+    <img src="https://github.com/snowykami.png" height="80px" alt="icon" />
+  </a>
+  <a href="https://github.com/liteyuki-flow">
+    <img src="https://github.com/liteyuki-flow.png" height="80px" alt="icon" />
+  </a>
+  <a href="https://github.com/Asankilp">
+    <img src="https://github.com/Asankilp.png" height="80px" alt="icon" />
+  </a>
+  <a href="https://github.com/ChenXu233">
+    <img src="https://github.com/ChenXu233.png" height="80px" alt="icon" />
+  </a>
+  <a href="https://github.com/EillesWan">
+    <img src="https://github.com/EillesWan.png" height="80px" alt="icon" />
+  </a>
+  <a href="https://github.com/ElapsingDreams">
+    <img src="https://github.com/ElapsingDreams.png" height="80px" alt="icon" />
+  </a>
+  <a href="https://github.com/HornCopper">
+    <img src="https://github.com/HornCopper.png" height="80px" alt="icon" />
+  </a>
+  <a href="https://github.com/LuoChenXil">
+    <img src="https://github.com/LuoChenXil.png" height="80px" alt="icon" />
+  </a>
+  <a href="https://github.com/Miracle200606">
+    <img src="https://github.com/Miracle200606.png" height="80px" alt="icon" />
+  </a>
+  <a href="https://github.com/MoeSnowyFox">
+    <img src="https://github.com/MoeSnowyFox.png" height="80px" alt="icon" />
+  </a>
+  <a href="https://github.com/Nanaloveyuki">
+    <img src="https://github.com/Nanaloveyuki.png" height="80px" alt="icon" />
+  </a>
+  <a href="https://github.com/synodriver">
+    <img src="https://github.com/synodriver.png" height="80px" alt="icon" />
+  </a>
+  <a href="https://github.com/Twisuki">
+    <img src="https://github.com/Twisuki.png" height="80px" alt="icon" />
+  </a>
+  <a href="https://github.com/yuhan2680">
+    <img src="https://github.com/yuhan2680.png" height="80px" alt="icon" />
+  </a>
+</div>
+
+
+<div align="center">
+
+  # Contacts 📧 联络
+
+</div>
+
+
+
+
+- Our Homepage/探索我们的主页 - [liteyuki.icu](https://liteyuki.icu)
+
+- Email/电邮 - [contact@liteyuki.icu](contact@liteyuki.icu)
+
+- Git Workspace/工作区 - [git.liteyuki.icu](https://git.liteyuki.icu)
+
+- Liteyuki Lab/社区 - [lab.liteyuki.icu](https://lab.liteyuki.icu)
+
